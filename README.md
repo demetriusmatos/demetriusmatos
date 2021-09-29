@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi people!
 
-<!--
-**demetriusmatos/demetriusmatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/demetriusmatos/)](https://www.linkedin.com/in/demetriusmatos/)
 
-Here are some ideas to get you started:
+Apaixonado por tecnologia e entusiasta do desenvolvimento web e mobile, estou estudando para conseguir evoluir como pessoa e como profissional e, estou buscando uma oportunidade não só de criar telas, sites e sistemas, mas para facilitar vidas.
+Atualmente na área de Atendimento ao cliente, com experiência no atendimento presencial, telefônico e via e-mail, esclarecimento de dúvidas, resolução de problemas e acompanhamento de pedidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+
+</div>
+ 
+ ##
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demetriusmatos&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
